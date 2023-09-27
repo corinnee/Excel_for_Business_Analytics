@@ -33,5 +33,5 @@ The optimisation model uses the following components:
 
 ## Files
 
-- `Managment_Analytics_Report.pdf`: Managerial report summarizing findings and recommendations.
-- `excel_solver_for_cost_allocation.xlsx`: Excel file containing the optimisation model.
+- [`Managment_Analytics_Report.pdf`](#Managment_Analytics_Report.pdf): Managerial report summarizing findings and recommendations.
+- [`excel_solver_for_cost_allocation.xlsx`](#excel_solver_for_cost_allocation.xlsx): Excel file containing the optimisation model.
