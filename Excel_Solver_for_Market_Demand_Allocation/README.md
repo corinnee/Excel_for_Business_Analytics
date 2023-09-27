@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains an Excel Solver model and a managerial report completed as part of the 'Management Analytics' module at the University of Kent. The project involves optimising the allocation of production units across TelecomOne's manufacturing plants to minimize costs while meeting market demands.
+This folder contains an Excel Solver model and a managerial report completed as part of the 'Management Analytics' module at the University of Kent. The project involves optimising the allocation of production units across TelecomOne's manufacturing plants to minimize costs while meeting market demands.
 
 ## Project Description
 
